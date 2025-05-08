@@ -1,0 +1,2 @@
+: Set permission 500 for private.sh
+Thu May  8 18:57:44 KST 2025: Set permission 500 for private.sh
